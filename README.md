@@ -1,3 +1,0 @@
-# cv-portfolio
-
-index.html
